@@ -527,7 +527,7 @@ img[src*="Pastor Wayman Mitchell"] {
 
 .media-item.video video {
   width: 100%;
-  height: 200px;
+  height: 400px;
   object-fit: cover;
   border-radius: 8px;
 }
